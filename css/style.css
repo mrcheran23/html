@@ -1,0 +1,30 @@
+h1 {
+    color: rgba(0, 83, 156, 0.603);
+}
+
+img {
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: 10px;
+}
+
+input {
+    display: block;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+div {
+    text-align: center;
+    margin-top: 10px;
+}
+
+button {
+    padding: 7px;
+    border: solid 1px, gold;
+}
